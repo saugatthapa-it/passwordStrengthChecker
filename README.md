@@ -16,18 +16,28 @@ Visual feedback:
 
 Animated strength bar (red for Weak, yellow for Moderate, green for Strong).  
 
-Bar glows with the corresponding color.
+Bar glows with the corresponding color.  
+
 Password input border and shadow match the strength color.
+
 User interaction:
+
 User enters a password and can only click the "Check" button to see the result.
 
 File Structure
+
 webfront.html: Main HTML file, includes the password input, strength bar, and button.
+
 code.js: Contains the password strength checking logic and DOM manipulation for visual feedback.
+
 style.css: Basic styling for layout, input, and button.
+
 Passpng.png: Logo image displayed at the top of the checker.
 
 Usage
 Open webfront.html in any browser.
+
 Enter a password and click "Check".
+
 The strength bar and input border will visually indicate the password's strength.
+
