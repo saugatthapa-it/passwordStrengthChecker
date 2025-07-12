@@ -35,6 +35,7 @@ style.css: Basic styling for layout, input, and button.
 Passpng.png: Logo image displayed at the top of the checker.
 
 Usage
+
 Open webfront.html in any browser.
 
 Enter a password and click "Check".
