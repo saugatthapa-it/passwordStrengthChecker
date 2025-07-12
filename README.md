@@ -4,7 +4,7 @@ A simplistic, browser-based password strength checker that use only visual cues 
 
 Features  
 
-Password strength logic:  
+#A# Password strength logic:  
 
 Strong: At least 10 characters, contains uppercase, lowercase, number, and special character.  
 
