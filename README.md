@@ -2,9 +2,9 @@
 Overview
 A simplistic, browser-based password strength checker that use only visual cues to indicate the strength of password.
 
-Features  
+1. Features  
 
-#A# Password strength logic:  
+A) Password strength logic:  
 
 Strong: At least 10 characters, contains uppercase, lowercase, number, and special character.  
 
@@ -12,7 +12,7 @@ Moderate: At least 10 characters, but missing one or more required types.
 
 Weak: Less than 10 characters or missing most requirements.  
 
-Visual feedback:  
+B) Visual feedback:  
 
 Animated strength bar (red for Weak, yellow for Moderate, green for Strong).  
 
@@ -20,21 +20,21 @@ Bar glows with the corresponding color.
 
 Password input border and shadow match the strength color.
 
-User interaction:
+C) User interaction:
 
 User enters a password and can only click the "Check" button to see the result.
 
-File Structure
+2. File Structure
 
-webfront.html: Main HTML file, includes the password input, strength bar, and button.
+A) webfront.html: Main HTML file, includes the password input, strength bar, and button.
 
-code.js: Contains the password strength checking logic and DOM manipulation for visual feedback.
+B) code.js: Contains the password strength checking logic and DOM manipulation for visual feedback.
 
-style.css: Basic styling for layout, input, and button.
+C) style.css: Basic styling for layout, input, and button.
 
 Passpng.png: Logo image displayed at the top of the checker.
 
-Usage
+3. Usage
 
 Open webfront.html in any browser.
 
