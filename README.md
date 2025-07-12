@@ -1,9 +1,9 @@
 # passwordStrengthChecker
-Overview
-A simplistic, browser-based password strength checker that use only visual cues to indicate the strength of password.
+# Overview
+# A simplistic, browser-based password strength checker that use only visual cues to indicate the strength of password.
 
-Features
-Password strength logic:
+# Features
+# Password strength logic:
 Strong: At least 10 characters, contains uppercase, lowercase, number, and special character.
 Moderate: At least 10 characters, but missing one or more required types.
 Weak: Less than 10 characters or missing most requirements.
